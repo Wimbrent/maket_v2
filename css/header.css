@@ -1,0 +1,343 @@
+header{
+    height: 727px;
+    width: 1440px;
+    background-color: black;
+}
+
+.header_top_nav_block{
+    position: relative;
+    background-color: #000000;
+    height: 68px;
+    width: 1440px;
+    left: calc(50% - 1440px/2);
+    top: 0px;
+}
+
+.header_nav_frame{
+    position: relative;
+    height: 68px;
+    width: 1304px;
+    left: calc(50% - 1304px/2);
+    top: calc(50% - 68px/2)
+}
+
+.header_nav_block{
+    position: relative;
+    height: 68px;
+    width: 978px;
+    left: 25%;
+    right: 0%;
+    top: 0px;
+}
+
+.header_nav_block_with_links{
+    display: inline-block;
+    position: relative;
+    height: 33px;
+    width: 559px;
+    right: 0px;
+    left: 419px;
+    top: calc(50% - 33px/2);
+}
+
+.general_nav_att{
+    position: absolute;
+    height: 34px;
+    top: -0.5px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.home_nav_link{ width: 46px; left: 0.54%; }
+.about_nav_link{ width: 55px; left: 15.38%; right: 74.78%; }
+.service_nav_link{ width: 74px; left: 31.66%; right: 55.1%; }
+.projects_nav_link{ width: 78px; left: 51.52%; right: 34.53%; }
+.news_nav_link{ width: 44px; left: 72.09%; right: 20.04%; }
+.contact_nav_link{ width: 75px; left: 86.58%; }
+
+.header_nav_block_logo{
+    position: absolute;
+    margin-top: 0px;
+    background-color: #99823D;
+    height: 136px;
+    width: 326px;
+    right: 75%;
+    top: 0px;
+    z-index: 99999999;
+}
+
+.header_nav_logo{
+    position: absolute;
+    height: 49px;
+    width: 190px;
+    left: 68px;
+    top: 43px;
+}
+
+.architecture_nav_block{
+    position: absolute;
+    height: 17px;
+    left: 0%;
+    right: 82.18%;
+    top: 25.5px;
+}
+
+.architecture_nav_row{
+    position: absolute;
+    height: 15px;
+    left: 19.51%;
+    right: 12.2%;
+    top: calc(50% - 15px/2);
+}
+
+.architecture-text{
+    position: absolute;
+    height: 16px;
+    width: 57px;
+    top: -1px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.made-with-text{
+    position: absolute;
+    height: 16px;
+    width: 59px;
+    left: 60px;
+    top: -0.5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.heart_picture{
+    position: absolute;
+    height: 17px;
+    width: 17px;
+    left: 157px;
+    top: 0.5px;
+    border-radius: 0px;
+}
+
+.header_block{
+    background-color: black;
+    position: absolute;
+    height: 659px;
+    width: 1440px;
+    left: 0px;
+    top: 68px;
+}
+
+.top_mainground{
+    background-color: black;
+    position: absolute;
+    width: 1440px;
+    height: 659px;
+    left: calc(50% - 1440px/2);
+    top: 68px;
+}
+
+.header_back_frame{
+    position: absolute;
+    height: 658.91px;
+    width: 1304px;
+    left: 68px;
+}
+
+.header_back_logo_frame{
+    position: relative;
+    height: 591px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+}
+
+.header_img{
+    position: relative;
+    height: 590.91px;
+    width: 978px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background-image: url("/img/IMAGE.png");
+}
+
+.header_social_nav_block{
+    background-color: #EBEBEB;
+    position: absolute;
+    width: 815px;
+    height: 68px;
+    top: 590.91px;
+}
+
+.header_social_nav_block{
+    position: absolute;
+    height: 68px;
+    width: 815px;
+    left: 0%;
+    right: 16.67%;
+    top: 590.91px;
+}
+
+.social_general_att{
+    position: absolute;
+    height: 68px;
+    top: 0.09px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 68px;
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.facebook_nav{ left: 0.37%; right: 88.59%; width: 90px; }
+.twitter_nav{ left: 15.59%; right: 14.72%; width: 76px; }
+.instagram_nav{ left: 29.82%; right: 57.91%; width: 100px; }
+.pinterest_nav{ left: 46.5%; right: 42.09%; width: 93px; }
+
+.header_back_frame_for_blocks{
+    position: absolute;
+    height: 659px;
+    width: 652px;
+    left: 652px;
+    top: 0px;
+}
+
+.header_back_block{
+    background-color: #99823D;
+    position: absolute;
+    width: 489px;
+    height: 329px;
+    top: 329px;
+    left: 25%;
+}
+
+.header_title_block{
+    background-color: #FFFFFF;
+    position: absolute;
+    height: 455px;
+    width: 584px;
+    right: 10.43%;
+    top: 68px;
+}
+
+.header_buttons_block{
+    position: absolute;
+    height: 68px;
+    width: 448px;
+    top: 318.91px;
+    left: 62.02px;
+}
+
+.header_title_text{
+    position: absolute;
+    height: 17px;
+    width: 142px;
+    top: 67px;
+    left: 68px;
+    color: #99823D;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 2.762500047683716px;
+    text-align: left;
+}
+
+.header_tagline_text{
+    position: absolute;
+    height: 135px;
+    width: 417px;
+    top: 86px;
+    left: 68px;
+    font-family: Teko;
+    font-style: normal;
+    font-size: 67px;
+    font-weight: 400;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.header_text_description{
+    position: absolute;
+    height: 51px;
+    width: 435px;
+    top: 253px;
+    left: 68px;
+    color: #141414;
+    font-family: 'Open Sans', sans-serif; ;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.explore_block{
+    background-color: #99823D;
+    position: absolute;
+    height: 68px;
+    width: 216px;
+    top: 0.09px;
+    left: -0.02px;
+}
+
+.explore_button{
+    background-color: #99823D;
+    position: absolute;
+    height: 18px;
+    width: 75px;
+    top: 24px;
+    left: 72px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 2.9749999046325684px;
+    text-align: center;
+}
+
+.lets_chat_block{
+    background-color: #000000;
+    position: absolute;
+    height: 68px;
+    width: 216px;
+    top: 0.09px;
+    left: 232.98px;
+}
+
+.lets_chat_button{
+    background-color: #000000;
+    position: absolute;
+    height: 18px;
+    width: 98px;
+    top: 24px;
+    left: 60px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 2.9749999046325684px;
+    text-align: center;
+}

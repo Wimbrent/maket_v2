@@ -1,0 +1,225 @@
+.services_block{
+    position: absolute;
+    height: 935.91px;
+    width: 1440px;
+    left: calc(50% - 1440px/2);
+    top: 1941.14px;
+}
+
+.see_all_services_block{
+    position: absolute;
+    height: 68px;
+    width: 1312px;
+    left: calc(50% - 1312px/2);
+    top: calc(50% - 68px/2 + 326.91px);
+}
+
+.see_all_services_frame{
+    position: absolute;
+    height: 68px;
+    width: 392px;
+    left: calc(50% - 392px/2);
+    top: calc(50% - 68px/2);
+    background: #99823D;
+    border-radius: 0px;
+}
+
+.see_all_services_link{
+    position: absolute;
+    height: 18px;
+    width: 153px;
+    left: calc(50% - 153px/2 + 1.5px);
+    top: calc(50% - 18px/2);
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.services_first_frame{
+    position: absolute;
+    height: 459px;
+    width: 1312px;
+    left: calc(50% - 1312px/2);
+    top: calc(50% - 459px/2 - 26.59px);
+}
+
+.services_second_frame{
+    position: absolute;
+    height: 459px;
+    width: 1176px;
+    left: 5.18%;
+    right: 5.18%;
+    top: 0px;
+}
+
+.img{
+    position: absolute;
+    height: 68px;
+    width: 68px;
+    left: 0%;
+    right: 68.22%;
+    top: -0.17px;
+    border-radius: 0px;
+}
+
+.service_date{
+    position: absolute;
+    height: 17px;
+    left: 0%;
+    right: 66.67%;
+    top: -0.72px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+}
+
+.service_name{
+    position: absolute;
+    height: 27px;
+    left: 0%;
+    right: 0%;
+    top: 27.28px;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #141414;
+}
+
+.service_description{
+    position: absolute;
+    height: 77px;
+    left: 8.69%;
+    right: 16.69%;
+    top: 119.83px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+}
+
+.architecture_block{
+    position: absolute;
+    height: 228px;
+    width: 391px;
+    left: 0%;
+    right: 66.75%;
+    top: 1px;
+}
+
+.title_block{
+    position: absolute;
+    height: 68px;
+    width: 214px;
+    left: 8.69%;
+    right: 36.63%;
+    top: 34px;
+}
+
+.title{
+    position: absolute;
+    height: 58.91px;
+    width: 129px;
+    left: 39.72%;
+    right: 0%;
+    top: 4.55px;
+}
+
+.interior_block{
+    position: absolute;
+    height: 228px;
+    width: 391px;
+    left: 33.33%;
+    right: 33.42%;
+    top: 1px;
+}
+
+.master_planing_block{
+    position: absolute;
+    height: 228px;
+    width: 391px;
+    left: 66.75%;
+    right: 0%;
+    top: 1px;
+}
+
+.consturction_block{
+    position: absolute;
+    height: 228px;
+    width: 391px;
+    left: 0%;
+    right: 66.75%;
+    top: 230px;
+}
+
+.energy_audit_block{
+    position: absolute;
+    height: 228px;
+    left: 33.33%;
+    right: 33.42%;
+    top: 230px;
+}
+
+.documentation_block{
+    position: absolute;
+    height: 228px;
+    left: 66.75%;
+    right: 0%;
+    top: 230px;
+}
+
+.service_title_block{
+    position: absolute;
+    width: 816px;
+    height: 154px;
+    left: calc(50% - 816px/2);
+    top: calc(50% - 154px/2 - 387.09px);
+}
+
+.service_title{
+    position: absolute;
+    width: 74px;
+    height: 17px;
+    left: calc(50% - 74px/2);
+    top: calc(50% - 17px/2 - 69.5px);
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+}
+
+.service_description_2{
+    position: absolute;
+    width: 801px;
+    height: 106px;
+    left: calc(50% - 801px/2 + 0.5px);
+    top: calc(50% - 106px/2 - 3px);
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 53px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #141414;
+}

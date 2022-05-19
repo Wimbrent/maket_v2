@@ -1,0 +1,344 @@
+.about_us{
+    position: absolute;
+    height: 872px;
+    width: 1440px;
+    left: 62px;
+    top: 795px;
+}
+
+.background_color{
+    position: absolute;
+    height: 872px;
+    width: 1378px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background-color: #EBEBEB;
+
+}
+
+.main_body_stats_frame{
+    position: absolute;
+    height: 75px;
+    width: 1312px;
+    top: 524.81px;
+    left: 64px;
+    display: inline;
+}
+
+.projects_block{
+    position: absolute;
+    height: 71px;
+    width: 113px;
+    top: 2.19px;
+    left: 71px;
+}
+
+.project_text{
+    height: 18px;
+    width: 78px;
+    left: calc(50% - 78px/2 + 1.5px);
+    top: calc(50% - 18px/2 + 26.5px);
+}
+
+.project_num{
+    width: 120px;
+    height: 59px;
+    left: calc(50% - 120px/2 + 0.5px);
+    top: calc(50% - 59px/2 - 14px);
+}
+
+.sketches_block{
+    position: absolute;
+    height: 74px;
+    width: 112px;
+    top: 0.19px;
+    left: 336px;
+}
+
+.sketches_num{
+    height: 59px;
+    width: 119px;
+    left: calc(50% - 119px/2 - 0.5px);
+    top: calc(50% - 59px/2 - 14.5px);
+}
+
+.sketches_text{
+    height: 18px;
+    width: 84px;
+    left: calc(50% - 84px/2 + 1px);
+    top: calc(50% - 18px/2 + 28px);
+}
+
+.clients_block{
+    position: absolute;
+    height: 75px;
+    width: 118px;
+    top: 0.19px;
+    left: 596px;
+}
+
+.clients_num{
+    width: 126px;
+    height: 59px;
+    left: calc(50% - 126px/2);
+    top: calc(50% - 59px/2 - 14px);
+}
+
+.clients_text{
+    width: 72px;
+    height: 18px;
+    left: calc(50% - 72px/2 + 1px);
+    top: calc(50% - 18px/2 + 28.5px);
+}
+
+.likes_block{
+    position: absolute;
+    height: 74px;
+    width: 115px;
+    top: 0.19px;
+    left: 861px;
+}
+
+.likes_num{
+    width: 123px;
+    height: 59px;
+    left: calc(50% - 123px/2 + 2px);
+    top: calc(50% - 59px/2 - 14.5px);
+}
+
+.likes_text{
+    width: 47px;
+    height: 18px;
+    left: calc(50% - 47px/2 + 2px);
+    top: calc(50% - 18px/2 + 28px);
+}
+
+.awards_block{
+    position: absolute;
+    height: 71px;
+    width: 113px;
+    top: 2.19px;
+    left: 1127px;
+}
+
+.awards_num{
+    width: 120px;
+    height: 59px;
+    left: calc(50% - 120px/2 + 0.5px);
+    top: calc(50% - 59px/2 - 14px);
+}
+
+.awards_text{
+    width: 66px;
+    height: 18px;
+    left: calc(50% - 66px/2 + 1.5px);
+    top: calc(50% - 18px/2 + 26.5px);
+}
+
+.num_stat{
+    position: absolute;
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #141414;
+}
+
+.name_stat{
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 2.975px;
+    text-align: center;
+    color: #99823D;
+    text-align: center;
+    letter-spacing: 2.975px;
+    text-transform: uppercase;
+}
+
+.general__att_squares{
+    position: absolute;
+    height: 9px;
+    width: 9px;
+    top: calc(50% - 9px/2 + 0.19px);
+    background-color: #99823D;
+}
+
+.first_square{ left: 19.59%; right: 79.73%; }
+.second_square{ left: 39.48%; right: 59.83%; }
+.third_square{ left: 59.68%; right: 39.63%; }
+.four_square{ left: 79.73%; right: 19.59%; }
+
+.main_body_description_and_news_frame{
+    position: absolute;
+    height: 321px;
+    width: 1312px;
+    left: calc(50% - 1312px/2);
+    top: calc(50% - 321px/2 - 139.5px);
+}
+
+.main_body_about_us_block{
+    position: absolute;
+    height: 320.91px;
+    width: 820px;
+    left: -6.02%;
+    right: 43.52%;
+    top: -35px;
+}
+
+.first_description{
+    position: absolute;
+    height: 51px;
+    width: 683px;
+    top: 155.09px;
+    left: 8.29%;
+    right: 8.41%;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+}
+
+.second_description{
+    position: absolute;
+    height: 102px;
+    left: 8.29%;
+    right: 8.29%;
+    top: 222.09px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #141414;
+}
+
+.our_job_row{
+    position: absolute;
+    height: 153.91px;
+    width: 688px;
+    left: 8.29%;
+    right: 7.8%;
+    top: 0px;
+}
+
+.about_us_title{ 
+    position: absolute;
+    height: 17px;
+    left: 0%;
+    right: 88.08%;
+    top: calc(50% - 17px/2 - 69.36px);
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+}
+
+.our_job_title{
+    position: absolute;
+    height: 106px;
+    left: 0%;
+    right: 4.8%;
+    top: calc(50% - 106px/2 - 2.86px);
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 53px;
+    line-height: 53px;
+    text-transform: capitalize;
+    color: #141414;
+}
+
+.main_body_news_block{
+    position: absolute;
+    height: 321px;
+    width: 424px;
+    left: 62.5%;
+    right: 5.18%;
+    top: 0px;
+}
+
+.first_news_block{
+    position: absolute;
+    height: 159px;
+    width: 424px;
+    left: 0%;
+    right: 0%;
+    top: 1px;
+}
+
+.second_news_block{
+    position: absolute;
+    height: 159px;
+    width: 424px;
+    left: 0%;
+    right: 0%;
+    top: 161px;
+}
+
+.date_row{
+    position: absolute;
+    height: 32.91px;
+    width: 181.22px;
+    left: 8.02%;
+    right: 49.24%;
+    top: calc(50% - 32.91px/2 - 26.12px);
+}
+
+.date_general{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 17px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #99823D;
+}
+
+.news_description{
+    position: absolute;
+    height: 53px;
+    left: 8.02%;
+    right: 15.8%;
+    top: calc(50% - 53px/2 + 11px);
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #141414;
+}
+
+.string_date{
+    height: 17px;
+    left: 46.9%;
+    right: 0.12%;
+    top: -0.88px;
+}
+
+.string_-{
+    height: 17px;
+    left: 33.66%;
+    right: 62.48%;
+    top: -0.88px;
+}
+
+.string_news{
+    height: 17px;
+    left: 0%;
+    right: 75.72%;
+    top: -0.88px;
+}

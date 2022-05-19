@@ -1,0 +1,217 @@
+.footer_block{
+    position: absolute;
+    width: 1440px;
+    height: 441px;
+    left: calc(50% - 1440px/2);
+    top: 3051.3px;
+}
+
+.footer_frame{
+    position: absolute;
+    width: 1304px;
+    height: 441px;
+    left: calc(50% - 1304px/2);
+    top: 0px;
+}
+
+.footer_vantage_block{
+    position: absolute;
+    height: 272px;
+    left: 0%;
+    right: 0%;
+    top: 65.7px;
+    background: #3D3D3D;
+}
+
+.footer_vantage{
+    position: absolute;
+    width: 131px;
+    height: 34px;
+    left: calc(50% - 131px/2 - 518.5px);
+    top: calc(50% - 34px/2 - 51px);
+}
+
+.footer_first_nav_links{
+    position: absolute;
+    height: 33px;
+    left: 51.92%;
+    right: 5.21%;
+    top: 68.41px;
+    display: inline;
+}
+
+.footer_links_general{
+    position: absolute;
+    height: 34px;
+    top: -0.41px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer_home{ width: 46px; left: calc(50% - 46px/2 - 253.5px); }
+.footer_about{ width: 55px; left: calc(50% - 55px/2 - 166px); }
+.footer_services { width: 74px; left: calc(50% - 74px/2 - 65.5px); }
+.footer_projects { width: 78px; left: calc(50% - 78px/2 + 47.5px); }
+.footer_news { width: 44px; left: calc(50% - 44px/2 + 145.5px); }
+.footer_contact{ width: 75px; left: calc(50% - 75px/2 + 242px); }
+
+.footer_powered{
+    position: absolute;
+    height: 169px;
+    left: 0%;
+    right: 0%;
+    top: 271.7px;
+}
+
+.black_footer{
+    position: absolute;
+    height: 239px;
+    left: -5.21%;
+    right: -5.21%;
+    top: -70px;
+    background: #141414;
+}
+
+.footer_newsletter_block{
+    position: absolute;
+    height: 204px;
+    width: 1168px;
+    left: 5.21%;
+    right: 5.21%;
+    top: 169.7px;
+    background: #99823D;
+}
+
+.footer_newsletter_frame{
+    position: absolute;
+    height: 68px;
+    left: 5.82%;
+    right: 5.82%;
+    top: 68.3px;
+}
+
+.footer_newsletter_subscribe{
+    position: absolute;
+    height: 68px;
+    width: 860px;
+    left: 0%;
+    right: 16.67%;
+    top: -0.3px;
+    background: #FFFFFF;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 34px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #3D3D3D;
+    text-indent: 50px;
+}
+
+.button_subscribe{
+    position: absolute;
+    height: 68px;
+    width: 155px;
+    left: 84.98%;
+    right: 0%;
+    top: -0.3px;
+    background: #141414;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer_nav{
+    position: absolute;
+    height: 169px;
+    left: 0%;
+    right: 0%;
+    top: 271.7px;
+}
+
+.footer_second_nav_links{
+    position: absolute;
+    height: 33px;
+    left: 5.21%;
+    right: 70.51%;
+    top: 119.3px;
+}
+
+.low_nav_general{
+    position: absolute;
+    top: -0.3px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.licensing_link{
+    width: 86px;
+    height: 34px;
+    left: calc(50% - 86px/2 - 112.29px);
+}
+
+.styles_link{
+    width: 97px;
+    height: 34px;
+    left: calc(50% - 97px/2 + 110.21px);
+}
+
+.changelog_link{
+    width: 58px;
+    height: 34px;
+    left: calc(50% - 58px/2 - 4.29px);
+}
+
+.footer_powered_block{
+    position: absolute;
+    width: 97px;
+    height: 15px;
+    left: calc(50% - 97px/2 + 419.5px);
+    top: 128px;
+}
+
+
+.powered_by_text{
+    position: absolute;
+    width: 97px;
+    height: 34px;
+    left: calc(50% - 97px/2);
+    top: -9px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.webflow_link{
+    width: 116px;
+    height: 34px;
+    left: calc(50% - 116px/2 + 526px);
+    top: 119px;
+}

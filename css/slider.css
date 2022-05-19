@@ -1,0 +1,239 @@
+.slider_block{
+    position: absolute;
+    height: 478px;
+    width: 1304px;
+    top: 1463px;
+    left: 68px;
+}
+
+.slider_container{
+    position: relative;
+    height: 342.3px;
+    width: 1338px;
+    top: 0.46px;
+    left: -17px;
+    transition: all ease 1s;
+    display: flex;
+}
+
+.slide_news_block{
+    position: absolute;
+    height: 34px;
+    width: 103px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    background: #141414;
+    border-radius: 0px;
+}
+
+.slide_new_text{
+    position: absolute;
+    width: 34px;
+    height: 17px;
+    left: calc(50% - 34px/2 + 1.5px);
+    top: calc(50% - 17px/2 + 0.5px);
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: 2.72px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.slide_first_title_block{
+    background-color: #000000;
+    position: absolute;
+    height: 68px;
+    width: 378px;
+    top: calc(50% - 68px/2 + 137.39px);
+    left: -0.02px;
+}
+
+.slide_first_title_text{
+    position: absolute;
+    width: 187px;
+    height: 27px;
+    left: calc(50% - 187px/2 - 0.5px);
+    top: calc(50% - 27px/2 - 5.5px);
+    font-family: 'Teko';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.slide_second_title_block{
+    background-color: #99823D;
+    position: absolute;
+    height: 102px;
+    width: 206px;
+    top: 241px;
+    left: 206px;
+}
+
+.slide_second_title_text{
+    position: absolute;
+    width: 143px;
+    height: 34px;
+    right: 30px;
+    top: 0px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 34px;
+    letter-spacing: 2.7625px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.first_line{
+    position: absolute;
+    height: 275px;
+    width: 1px;
+    left: 0%;
+    right: 99.76%;
+    top: -0.46px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.second_line{
+    position: absolute;
+    height: 275px;
+    width: 1px;
+    left: 25%;
+    right: 74.76%;
+    top: -0.46px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.third_line{
+    position: absolute;
+    height: 275px;
+    width: 1px;
+    left: 49.76%;
+    right: 50%;
+    top: -0.46px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.four_line{
+    position: absolute;
+    height: 275px;
+    width: 1px;
+    left: 74.76%;
+    right: 25%;
+    top: -0.46px;
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+
+.fifth_line{
+    position: absolute;
+    height: 275px;
+    width: 1px;
+    left: 99.76%;
+    right: 0%;
+    top: -0.46px;
+    background: #FFFFFF;
+    border-radius: 0px; 
+}
+
+.slide_item{
+    position: relative;
+    height: 342.3px;
+    width: 411.98px;
+}
+
+.slide-image{
+    position: absolute;
+    height: 275px;
+    width: 412px;
+}
+
+.black_square{
+    position: absolute;
+    height: 11px;
+    width: 11px;
+    left: calc(50% - 11px/2 + 0.5px);
+    top: calc(50% - 11px/2 + 171.5px);
+    background: #222222;
+}
+
+/* Слайдер */ 
+.slick-slider{
+    
+} 
+/* Слайдер запущен */ 
+.slick-slider.slick-initialized{} 
+/* Слайдер с точками */ 
+.slick-slider.slick-dotted{}	
+/* Ограничивающая оболочка */ 
+.slick-list {
+    overflow: hidden;
+} 
+/* Лента слайдов */ 
+.slick-track{
+    display: flex;
+    height: 342.3px;
+    width: 1338px;
+
+}
+/* Слайд */ 
+.slick-slide{
+    margin: 11px;
+} 
+/* Слайд активный (показывается) */ 
+.slick-slide.slick-active{
+} 
+/* Слайд основной */ 
+.slick-slide.slick-current{} 
+/* Слайд по центру */ 
+.slick-slide.slick-center{} 
+/* Клонированный слайд */ 
+.slick-slide.slick-cloned{
+
+}
+/* Стрелка */ 
+.slick-arrow{} 
+/* Стрелка влево */ 
+.slick-arrow.slick-prev{} 
+/* Стрелка вправо */ 
+.slick-arrow.slick-next{} 
+/* Стрелка не активная */ 
+.slick-arrow.slick-disabled{}
+/* Точки (булиты) */ 
+.slick-dots{} 
+.slick-dots li{} 
+/* Активная точка */ 
+.slick-dots li.slick-active{} 
+/* Элемент точки */ 
+.slick-dots li button{} 
+
+.slider_container .slick-arrow{
+    position: absolute;
+    top: 25%;
+    margin: 50px 0px 0px 0px;
+    z-index: 10;
+    font-style: 10px;
+    width: 30px;
+    height: 120px;
+}
+
+.slider_container .slick-arrow.slick-prev{
+    left: 15px;
+    background: url('../slick/sl-arrow_l.svg') 0 0 / 100 no-repeat;
+}
+.slider_container .slick-arrow.slick-next{
+    right: 15px;
+    background: url('../slick/sl-arrow_r.svg') 0 0 / 100 no-repeat;
+}
